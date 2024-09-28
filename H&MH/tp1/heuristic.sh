@@ -1,0 +1,1 @@
+python3 main.py knapsack simulated_annealing inputs/mochila_100_1000_1.txt
